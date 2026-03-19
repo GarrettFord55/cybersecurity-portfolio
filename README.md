@@ -7,6 +7,7 @@ Welcome to my cybersecurity portfolio. This repository contains coursework, inve
 ---
 
 # 🧠 Artificial Intelligence
+[Artificial Intelligence Projects](AI)
 
 Machine learning projects focused on building and evaluating predictive models.
 
@@ -22,6 +23,7 @@ Machine learning projects focused on building and evaluating predictive models.
 ---
 
 # 🔐 Security+
+[Security+ Coursework](SecurityPlus)
 
 Coursework covering fundamental cybersecurity principles and defensive security practices.
 
@@ -35,6 +37,7 @@ Coursework covering fundamental cybersecurity principles and defensive security 
 ---
 
 # 🗄️ Database Security
+[Database Security Projects](Database_Security)
 
 Projects demonstrating relational database design and administration.
 
@@ -50,6 +53,7 @@ Projects demonstrating relational database design and administration.
 ---
 
 # 🕵️ Digital Forensics
+[Digital Forensics Investigations](Digital_Forensics)
 
 Full forensic investigation reports analyzing digital evidence from simulated incidents.
 
@@ -73,6 +77,7 @@ Full forensic investigation reports analyzing digital evidence from simulated in
 ---
 
 # 🐍 Python Programming
+[Python Security Tools](Python)
 
 ### Certification
 **PCEP – Certified Entry-Level Python Programmer**
@@ -93,6 +98,7 @@ Score: **89%**
 ---
 
 # 🌐 Networking
+[Networking Certifications](Networking)
 
 Cisco Networking Academy coursework focused on networking infrastructure and configuration.
 
@@ -110,6 +116,7 @@ Cisco Networking Academy coursework focused on networking infrastructure and con
 ---
 
 # 🧪 Project: AI Fake ID Detection (In Progress)
+[Scanner Prototype](Projects)
 
 A computer vision prototype designed to analyze Michigan driver's licenses and detect potentially fraudulent IDs.
 
