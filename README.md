@@ -98,11 +98,11 @@ Score: **89%**
 ---
 
 # 🌐 Networking
-[Networking Certifications](Networking)
+[Networking Certificates](Networking)
 
 Cisco Networking Academy coursework focused on networking infrastructure and configuration.
 
-### Certifications
+### Certificates
 - **CCNA: Introduction to Networks**
 - **CCNA: Switching, Routing, and Wireless Essentials**
 
